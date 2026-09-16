@@ -3,9 +3,9 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Indoor Plants</title>
+    <title>https://indoor-plants.ghost.io</title>
     <link>https://yaminyann.github.io/ghost-site-check/blog/</link>
-    <description>Latest posts from Indoor Plants</description>
+    <description>Latest posts from https://indoor-plants.ghost.io</description>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Sep 2026 09:52:24 GMT</lastBuildDate>
     <atom:link href="https://yaminyann.github.io/ghost-site-check/rss.xml" rel="self" type="application/rss+xml"/>
