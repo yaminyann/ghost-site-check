@@ -1,4 +1,4 @@
-# robots.txt for Indoor Plants
+# robots.txt for https://indoor-plants.ghost.io
 # Generated automatically by Static Site Generator
 
 User-agent: *
