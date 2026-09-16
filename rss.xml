@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Indoor Plants</title>
+    <link>https://yaminyann.github.io/ghost-site-check/blog/</link>
+    <description>Latest posts from Indoor Plants</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Sep 2026 09:52:24 GMT</lastBuildDate>
+    <atom:link href="https://yaminyann.github.io/ghost-site-check/rss.xml" rel="self" type="application/rss+xml"/>
+    <generator>Static Site Generator v2.3.0</generator>
+
+    <item>
+      <title>How to Repot an Indoor Plant: Simple Steps for Thriving Greens</title>
+      <link>https://yaminyann.github.io/ghost-site-check/indoor-plants/repot-indoor-plant-steps.html</link>
+      <guid isPermaLink="true">https://yaminyann.github.io/ghost-site-check/indoor-plants/repot-indoor-plant-steps.html</guid>
+      <pubDate>Wed, 16 Sep 2026 09:52:24 GMT</pubDate>
+      <description>How to Repot an Indoor Plant: A Real-World Guide
+
+
+Repotting an indoor plant can feel intimidating, especially if you’ve watched a healthy plant wilt after a well-intentioned move. I’ve been there, staring at a tangle of roots, second-guessing every step, and then learning the hard way what really makes the difference. Here’s what actually matters, based on close calls (and some plant casualties) over years of trial and error.
+
+
+
+
+When It’s Time to Repot: Trust What You See, Not the Calendar
+
+
+D</description>
+      <category>Indoor Plants</category>
+      <author>IndoorPlants</author>
+    </item>
+  </channel>
+</rss>
